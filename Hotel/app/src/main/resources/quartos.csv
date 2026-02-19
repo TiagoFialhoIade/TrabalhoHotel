@@ -1,0 +1,11 @@
+id,numero,capacidade,estaOcupado
+1,101,1,false
+2,102,1,false
+3,201,2,false
+4,202,2,false
+5,203,2,false
+6,301,3,false
+7,302,3,false
+8,401,4,false
+9,402,4,false
+10,601,6,false
